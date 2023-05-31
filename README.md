@@ -1,3 +1,3 @@
-# React JSX Practice
+# React Props Practice
 
-A practical react app, showing the use of jsx and customized components
+A practical react app, showing the use of props and customized components
